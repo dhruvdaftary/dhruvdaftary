@@ -9,14 +9,9 @@
     </p> -->
     <p align="center" style="font-size:22px;margin-top:0;border:none">
         <i>
-        ⚡️ Those who dare to Dream. dare to Achieve. ⚡️
+        ⚡️ Those who dare to Dream, Dare to Achieve. ⚡️
         </i>
     </p>
-    <div> 
-        <img src="https://komarev.com/ghpvc/?username=dhruvdaftary&label=Profile%20views&color=1E90FF&style=flat" alt="DhruvDaftary" />
-       
-    </div>
-</div>
 
 <h2>
 🚀 Insights
