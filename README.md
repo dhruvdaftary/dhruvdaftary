@@ -47,7 +47,7 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvdaftary&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Dhruv Daftary Top Langiuages" />
 
 <a href="https://github.com/dhruvdaftary">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=dhruvdaftary&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Dhruv Daftary Stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=rajvardhan19&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Dhruv Daftary Stats" />
 </a>
 
 <a href="https://github.com/dhruvdaftary">
