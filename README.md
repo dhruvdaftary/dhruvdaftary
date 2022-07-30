@@ -55,7 +55,7 @@
 </a>
 
 <h2>🧩 Technologies worked with</h2>
-<p align="left">
+<p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
