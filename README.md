@@ -9,7 +9,7 @@
     </p> -->
     <p align="center" style="font-size:22px;margin-top:0;border:none">
         <i>
-        ⚡️ Those who dare to Dream, Dare to Achieve. ⚡️
+        ⚡️ Those who Dare to Dream, Dare to Achieve. ⚡️
         </i>
     </p>
 
