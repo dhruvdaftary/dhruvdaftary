@@ -51,7 +51,7 @@
 </a>
 
 <a href="https://github.com/dhruvdaftary">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhruv's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajvardhan19&theme=neon-dark&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhruv's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvdaftary&theme=neon-dark&hide_border=true"/>
 </a>
 
 <h2>🧩 Technologies worked with</h2>
