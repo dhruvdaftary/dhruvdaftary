@@ -47,11 +47,11 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvdaftary&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Dhruv Daftary Top Langiuages" />
 
 <a href="https://github.com/dhruvdaftary">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=rajvardhan19&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Dhruv Daftary Stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=dhruvdaftary&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Dhruv Daftary Stats" />
 </a>
 
 <a href="https://github.com/dhruvdaftary">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhruv's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvdaftary&theme=neon-dark&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhruv's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajvardhan19&theme=neon-dark&hide_border=true"/>
 </a>
 
 <h2>🧩 Technologies worked with</h2>
