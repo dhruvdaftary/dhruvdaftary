@@ -27,7 +27,7 @@
             Always seeking out opportunities to <b>develop</b> challenging applications, <b>collaborate</b> with like minded intellectuals and sharing these skillsets to give <b>back to the community</b> 💻
         </li>
         <li style="font-size:18px">
-            I do <i>full stack development</i> and keep exploring new fields 🔭
+            I am currently exploring new fields in tech 🔭
         </li>
         <li style="font-size:18px">
             <b>Music</b> and <b>love</b> makes the world go around 🎧
