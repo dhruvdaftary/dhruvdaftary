@@ -1,3 +1,4 @@
+![Header image](Github.png)
 <div align="center"> 
     <h1>Hey there, Dhruv here
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> 
